@@ -1,0 +1,14 @@
+C:\FSD_.net\BasicOfCsharp\BasicOfCsharp\obj\Debug\netcoreapp3.1\BasicOfCsharp.csproj.AssemblyReference.cache
+C:\FSD_.net\BasicOfCsharp\BasicOfCsharp\obj\Debug\netcoreapp3.1\BasicOfCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\FSD_.net\BasicOfCsharp\BasicOfCsharp\obj\Debug\netcoreapp3.1\BasicOfCsharp.AssemblyInfoInputs.cache
+C:\FSD_.net\BasicOfCsharp\BasicOfCsharp\obj\Debug\netcoreapp3.1\BasicOfCsharp.AssemblyInfo.cs
+C:\FSD_.net\BasicOfCsharp\BasicOfCsharp\obj\Debug\netcoreapp3.1\BasicOfCsharp.csproj.CoreCompileInputs.cache
+C:\FSD_.net\BasicOfCsharp\BasicOfCsharp\bin\Debug\netcoreapp3.1\BasicOfCsharp.exe
+C:\FSD_.net\BasicOfCsharp\BasicOfCsharp\bin\Debug\netcoreapp3.1\BasicOfCsharp.deps.json
+C:\FSD_.net\BasicOfCsharp\BasicOfCsharp\bin\Debug\netcoreapp3.1\BasicOfCsharp.runtimeconfig.json
+C:\FSD_.net\BasicOfCsharp\BasicOfCsharp\bin\Debug\netcoreapp3.1\BasicOfCsharp.runtimeconfig.dev.json
+C:\FSD_.net\BasicOfCsharp\BasicOfCsharp\bin\Debug\netcoreapp3.1\BasicOfCsharp.dll
+C:\FSD_.net\BasicOfCsharp\BasicOfCsharp\bin\Debug\netcoreapp3.1\BasicOfCsharp.pdb
+C:\FSD_.net\BasicOfCsharp\BasicOfCsharp\obj\Debug\netcoreapp3.1\BasicOfCsharp.dll
+C:\FSD_.net\BasicOfCsharp\BasicOfCsharp\obj\Debug\netcoreapp3.1\BasicOfCsharp.pdb
+C:\FSD_.net\BasicOfCsharp\BasicOfCsharp\obj\Debug\netcoreapp3.1\BasicOfCsharp.genruntimeconfig.cache

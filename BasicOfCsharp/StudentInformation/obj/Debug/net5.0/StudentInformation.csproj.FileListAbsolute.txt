@@ -1,0 +1,16 @@
+C:\FSD_.net\BasicOfCsharp\StudentInformation\bin\Debug\net5.0\StudentInformation.exe
+C:\FSD_.net\BasicOfCsharp\StudentInformation\bin\Debug\net5.0\StudentInformation.deps.json
+C:\FSD_.net\BasicOfCsharp\StudentInformation\bin\Debug\net5.0\StudentInformation.runtimeconfig.json
+C:\FSD_.net\BasicOfCsharp\StudentInformation\bin\Debug\net5.0\StudentInformation.runtimeconfig.dev.json
+C:\FSD_.net\BasicOfCsharp\StudentInformation\bin\Debug\net5.0\StudentInformation.dll
+C:\FSD_.net\BasicOfCsharp\StudentInformation\bin\Debug\net5.0\ref\StudentInformation.dll
+C:\FSD_.net\BasicOfCsharp\StudentInformation\bin\Debug\net5.0\StudentInformation.pdb
+C:\FSD_.net\BasicOfCsharp\StudentInformation\obj\Debug\net5.0\StudentInformation.csproj.AssemblyReference.cache
+C:\FSD_.net\BasicOfCsharp\StudentInformation\obj\Debug\net5.0\StudentInformation.GeneratedMSBuildEditorConfig.editorconfig
+C:\FSD_.net\BasicOfCsharp\StudentInformation\obj\Debug\net5.0\StudentInformation.AssemblyInfoInputs.cache
+C:\FSD_.net\BasicOfCsharp\StudentInformation\obj\Debug\net5.0\StudentInformation.AssemblyInfo.cs
+C:\FSD_.net\BasicOfCsharp\StudentInformation\obj\Debug\net5.0\StudentInformation.csproj.CoreCompileInputs.cache
+C:\FSD_.net\BasicOfCsharp\StudentInformation\obj\Debug\net5.0\StudentInformation.dll
+C:\FSD_.net\BasicOfCsharp\StudentInformation\obj\Debug\net5.0\ref\StudentInformation.dll
+C:\FSD_.net\BasicOfCsharp\StudentInformation\obj\Debug\net5.0\StudentInformation.pdb
+C:\FSD_.net\BasicOfCsharp\StudentInformation\obj\Debug\net5.0\StudentInformation.genruntimeconfig.cache
